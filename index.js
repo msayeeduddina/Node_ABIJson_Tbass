@@ -4,7 +4,7 @@
 require("dotenv").config(); // Load environment variables from .env file
 
 // ==========================
-// Module Imports /
+// Module Imports
 // ==========================
 const express = require("express"); // Import Express framework
 const mongoose = require("mongoose"); // Import Mongoose for MongoDB interaction
