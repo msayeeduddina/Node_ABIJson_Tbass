@@ -13,7 +13,7 @@ const contractRoute = require("./routes/contracts/contracts.route"); // Import c
 // ==========================
 // Configuration
 // ==========================
-const PORT = process.env.PORT || 3001; // Set the port for the server, defaulting to 3001 if not specified
+const PORT = process.env.PORT || 3003; // Set the port for the server, defaulting to 3001 if not specified
 const MONGOOSE_CONNECT_URI = process.env.MONGOOSE_CONNECT_URI; // MongoDB connection URI
 
 // ==========================
